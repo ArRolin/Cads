@@ -21,6 +21,10 @@ header.main-header {
 	box-shadow: 0px 0px 8px #b7b7b7;
 }
 
+.nav-element-center {
+	margin: 18px auto;
+}
+
 .top-nav {
 	margin: 15px 0 0;
 }
@@ -41,7 +45,7 @@ header.main-header {
 }
 
 .banners {
-	margin: 0px 0px;
+	margin: 75px 0px 0px;
 }
 
 .ft-des {
@@ -73,7 +77,7 @@ section {
 }
 
 .list .container {
-	background: #fafdff;
+	background: #ffffff;
 	border: 1px solid #ebebeb;
 }
 
